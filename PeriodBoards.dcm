@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HCT245PW
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT245.pdf
+$ENDCMP
+#
+$CMP IS31FL3741
+F http://ams.issi.com/WW/pdf/IS31FL3741.pdf
+$ENDCMP
+#
+#End Doc Library
